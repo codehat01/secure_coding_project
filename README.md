@@ -1,4 +1,3 @@
-Certainly! Here’s a sample README file for your project. I included instructions on installation, usage, and a brief description. Adjust any specific details as needed.
 
 ---
 
@@ -28,8 +27,8 @@ To use this project, you need to have Python installed (version 3.6 or higher is
 
 1. **Clone the Repository** (if applicable):
     ```bash
-    git clone https://github.com/your-username/falcon-pqs-verification.git
-    cd falcon-pqs-verification
+    git clone https://github.com/codehat01/secure_coding_project.git
+    cd secure_coding_project
     ```
 
 2. **Install the WHL file**:
@@ -52,15 +51,15 @@ To use this project, you need to have Python installed (version 3.6 or higher is
 After installation, you can run the provided Python program to verify signatures using the Falcon algorithm.
 
 1. **Running the Verification Script**:
-   - The verification script (`verify_signature.py`) requires an input file with the digital signature and the corresponding public key.
+   - The verification script (`pythonfalcon.py`) requires an input file with the digital signature and the corresponding public key.
    - Run the script as follows:
      ```bash
-     python verify_signature.py --signature <path/to/signature_file> --public_key <path/to/public_key_file>
+     python pythonfalcon.py
      ```
 
 2. **Example Command**:
     ```bash
-    python verify_signature.py --signature sample.sig --public_key sample.pub
+    python pythonfalcon.py
     ```
 
 3. **Expected Output**:
