@@ -1,7 +1,7 @@
 
 ---
 
-# Falcon Post Quantum Signature Verification
+# Falcon Post-Quantum-Signature Verification
 
 This project provides a Python implementation for **Falcon Post Quantum Signature Verification**. It includes a pre-built `.whl` file and a Python script for demonstrating how to verify post-quantum signatures using the Falcon algorithm, a lattice-based signature scheme designed to provide secure digital signatures even in the presence of quantum computing.
 
