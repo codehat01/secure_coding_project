@@ -21,4 +21,6 @@ else:
     print("Verification failed. The message does not match!")
 
 print("Verified message (bytes):", verified_message_bytes)
+
 print("Verification input message (bytes):", verification_message)
+
